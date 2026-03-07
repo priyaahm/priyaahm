@@ -1,4 +1,4 @@
-##👋 Hi, I'm Priya!
+👋 Hi, I'm Priya!
 
 <!--
 **priyaahm/priyaahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
