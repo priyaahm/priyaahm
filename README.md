@@ -1,16 +1,8 @@
 👋 Hi, I'm Priya!
 
-<!--
-**priyaahm/priyaahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎨 Frontend developer who loves building fast, clean web apps
 - 🌱 Currently sharpening my skills in React, Next.js & TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about React, Tailwind CSS, or why I think good UI is felt, not just seen
+- 📫 How to reach me: marrapusripriya3@gmail.com
+- ⚡ Fun fact: I code better with music on.
+
